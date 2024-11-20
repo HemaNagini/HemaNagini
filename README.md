@@ -19,11 +19,11 @@ Hello! I'm a Data Science and Analytics graduate student passionate about levera
 
 
 🌐 Experience
-Teaching Assistant & Desk Assistant at UMKC: Assisted in coursework and provided support in data management.
-Volunteer for the National Service Scheme: Contributed to community projects, showcasing my leadership and teamwork skills.
+- Teaching Assistant & Desk Assistant at UMKC: Assisted in coursework and provided support in data management.
+- Volunteer for the National Service Scheme: Contributed to community projects, showcasing my leadership and teamwork skills.
 
 
 🎨 Hobbies & Interests
-🧘‍♀️ Yoga | 🏋️ Weightlifting | 🏊 Swimming
-🎨 Drawing | 💃 Kuchipudi Dance!
+- 🧘‍♀️ Yoga | 🏋️ Weightlifting | 🏊 Swimming
+- 🎨 Drawing | 💃 Kuchipudi Dance!
 
