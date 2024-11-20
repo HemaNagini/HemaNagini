@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<💻 Data Science & AI Enthusiast | Graduate Student at UMKC
+💻 Data Science & AI Enthusiast | Graduate Student at UMKC
 Hello! I'm a Data Science and Analytics graduate student passionate about leveraging AI and machine learning to solve complex real-world problems. My interests span across:
 
 🤖 Deep Learning & Machine Learning: Skilled in building robust models for emotion detection, face recognition, and biometric classification.
