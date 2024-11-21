@@ -4,6 +4,8 @@ Hi! I'm Hema Nagini Matta, a passionate cybersecurity enthusiast with a strong f
 With a background in data science and analytics, I bring analytical thinking and technical skills to every challenge. I believe in continuous learning and leveraging community engagement to stay ahead in this dynamic field.
 
 
+
+
 💼 Skills
 - Cybersecurity & AI Integration
 
@@ -28,6 +30,8 @@ Teaching assistant and campus ambassador experience.
 Ability to handle complex tasks and lead teams effectively.
 
 
+
+
 🌟 Projects
 1. Emotion Detection System
 
@@ -49,6 +53,8 @@ Ability to handle complex tasks and lead teams effectively.
 Real-time Threat Intelligence System (Upcoming Offensive Cybersecurity Project)
 
 
+
+
 🔍 Areas of Interest
 
 - Offensive Cybersecurity:
@@ -64,6 +70,8 @@ Real-time Threat Intelligence System (Upcoming Offensive Cybersecurity Project)
   -Open-source tools and frameworks for cybersecurity.
 
 
+
+
 🎯 Current Goals
 1.Transition from defensive to offensive cybersecurity, blending AI expertise.
 2.Develop a robust portfolio featuring offensive and defensive security projects.
@@ -71,14 +79,18 @@ Real-time Threat Intelligence System (Upcoming Offensive Cybersecurity Project)
 4.Engage with cybersecurity communities and contribute to open-source projects.
 
 
+
+
 🌐 Let’s Connect
 
-- LinkedIn: ![LinkedinGIF](https://github.com/user-attachments/assets/475e9fb5-6c24-4ad0-90b1-d8191b94427b)  https://www.linkedin.com/in/hema-nagini/
+- LinkedIn:https://www.linkedin.com/in/hema-nagini/
 - Email: hemaanagini@gmail.com
 
 
 
 When I’m not coding, you’ll find me 🎨sketching, 🧘‍♀️practicing yoga, 🏊swimming, or 💃dancing Kuchipudi.
+
+
 
 
 
