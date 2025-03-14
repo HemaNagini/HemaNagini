@@ -1,15 +1,12 @@
 ## 👋 About Me
-Hi! I'm Hema Nagini Matta, a passionate cybersecurity enthusiast with a strong foundation in defensive mechanisms, eager to expand my expertise into offensive cybersecurity. My journey in cybersecurity began with a fascination for safeguarding systems against threats, and now I aim to become a well-rounded professional who not only defends but also identifies and mitigates vulnerabilities proactively.
+Hi! I'm Hema Nagini Matta. My journey in cybersecurity began with a fascination for safeguarding systems against threats, and now I aim to become a well-rounded professional who not only defends but also identifies and mitigates vulnerabilities proactively.
 
 With a background in data science and analytics, I bring analytical thinking and technical skills to every challenge. I believe in continuous learning and leveraging community engagement to stay ahead in this dynamic field.
-
-
 
 
 💼 Skills
 - Cybersecurity & AI Integration
 
-AI model development for biometric security (live vs. spoof classification).
 Machine learning for emotion detection and facial recognition.
 
 - Data Science
@@ -20,9 +17,8 @@ Statistical modeling and predictive analytics.
 
 - Programming & Tools
 
-Programming Languages: Python, R, MATLAB, and more.
+Programming Languages: Python, R, SQL, MATLAB.
 Cybersecurity Tools: SIEM systems, IDS/IPS, and vulnerability scanning tools.
-Cloud & Infrastructure: Experience with scalable data pipelines.
 
 - Communication & Collaboration
 
@@ -50,35 +46,20 @@ Ability to handle complex tasks and lead teams effectively.
 - Utilized data analytics for storm prediction and risk assessment.
 
 
-Real-time Threat Intelligence System (Upcoming Offensive Cybersecurity Project)
+5. Real-time Threat Intelligence System
+- 
 
 
 
 
 🔍 Areas of Interest
 
-- Offensive Cybersecurity:
-  - Penetration testing, ethical hacking, and vulnerability analysis.
-
 - Defensive Mechanisms:
   - Incident response, threat detection, and risk mitigation.
 
-- Biometric Authentication:
-  - AI models for enhanced security against spoofing.
 
 - Community Contributions:
   -Open-source tools and frameworks for cybersecurity.
-
-
-
-
-🎯 Current Goals
-1.Transition from defensive to offensive cybersecurity, blending AI expertise.
-2.Develop a robust portfolio featuring offensive and defensive security projects.
-3.Earn certifications like CEH and OSCP to strengthen penetration testing skills.
-4.Engage with cybersecurity communities and contribute to open-source projects.
-
-
 
 
 🌐 Let’s Connect
