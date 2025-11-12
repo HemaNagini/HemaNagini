@@ -1,80 +1,31 @@
-## 👋 About Me
-Hi! I'm Hema Nagini Matta. My journey in cybersecurity began with a fascination for safeguarding systems against threats, and now I aim to become a well-rounded professional who not only defends but also identifies and mitigates vulnerabilities proactively.
+### 👋 Hi there, I’m Hema!  
+I’m a **Data Scientist & Analyst** with a Master’s degree in Data Science and Analytics.  
+I’m passionate about turning complex data into clear, actionable insights — and about building intelligent systems that combine **AI, creativity, and real-world impact**.  
 
-With a background in data science and analytics, I bring analytical thinking and technical skills to every challenge. I believe in continuous learning and leveraging community engagement to stay ahead in this dynamic field.
+🧩 **Core Interests:**  
+- Natural Language Processing (NLP) and Large Language Models (LLMs)  
+- Deep Learning (CNNs, Transformers, multimodal learning)  
+- Data Visualization & Business Analytics  
+- Cybersecurity Data Science & Real-Time Threat Intelligence  
+- AI-driven creativity and decision systems  
 
+🚀 **What I’ve Built:**  
+- 🧠 *Multimodal Emotion Detection System* — combined CNNs + LLMs for emotion analysis in text and images.  
+- 🔐 *Real-Time Threat Intelligence Platform* — applied NLP & anomaly detection for live cybersecurity analytics.  
+- 📈 *Customer Retention System* — used SAS & Python for predictive modeling and churn analysis.  
 
-💼 Skills
-- Cybersecurity & AI Integration
+🛠️ **Tech Stack:**  
+`Python` | `R` | `TensorFlow` | `PyTorch` | `SAS` | `MATLAB` | `SQL` | `Tableau` | `Excel` | `Pandas` | `NumPy`  
 
-Machine learning for emotion detection and facial recognition.
+🎓 **Education:**  
+*M.S. in Data Science and Analytics* — [University of Missouri-Kansas City], [2024]  
 
-- Data Science
+🌍 **Open To:**  
+Full-time Data Science, Machine Learning, and Analytics roles (Remote / Hybrid / Onsite, U.S.)  
+Currently on **STEM OPT** and available immediately.  
 
-Business analytics and data management.
-Transfer learning and natural language processing (NLP).
-Statistical modeling and predictive analytics.
+📬 **Let’s Connect:**     
+- [Email](hemanaginim@gmail.com)
 
-- Programming & Tools
-
-Programming Languages: Python, R, SQL, MATLAB.
-Cybersecurity Tools: SIEM systems, IDS/IPS, and vulnerability scanning tools.
-
-- Communication & Collaboration
-
-Teaching assistant and campus ambassador experience.
-Ability to handle complex tasks and lead teams effectively.
-
-
-
-
-🌟 Projects
-1. Emotion Detection System
-
-- Leveraged deep learning to identify emotions from input data, aiding behavioral analytics.
-
-2. Personal Educator Using BERT
-
-- Created a question-answering system tailored for specific educational needs.
-
-3. Face Recognition with Transfer Learning
-
-- Implemented transfer learning to enhance facial recognition for secure systems.
-
-4. Storm Analysis
-
-- Utilized data analytics for storm prediction and risk assessment.
-
-
-5. Real-time Threat Intelligence System
-- 
-
-
-
-
-🔍 Areas of Interest
-
-- Defensive Mechanisms:
-  - Incident response, threat detection, and risk mitigation.
-
-
-- Community Contributions:
-  -Open-source tools and frameworks for cybersecurity.
-
-
-🌐 Let’s Connect
-
-- LinkedIn:https://www.linkedin.com/in/hema-nagini/
-- Email: hemaanagini@gmail.com
-
-
-
-When I’m not coding, you’ll find me 🎨sketching, 🧘‍♀️practicing yoga, 🏊swimming, or 💃dancing Kuchipudi.
-
-
-
-
-
-I’m always open to collaborating on projects or discussing innovative solutions in cybersecurity. Let’s build a safer digital world together!
-
-
+---
+💡 *I love exploring intersections of data, art, and AI — using analytics not just to understand, but to create.*
