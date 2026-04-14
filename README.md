@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m Hema!  
-I’m a **Data Scientist & Analyst** with a Master’s degree in Data Science and Analytics.  
+I’m an **AI/ML Engineer** with a Master’s degree in Data Science and Analytics.  
 I’m passionate about turning complex data into clear, actionable insights — and about building intelligent systems that combine **AI, creativity, and real-world impact**.  
 
 🧩 **Core Interests:**  
